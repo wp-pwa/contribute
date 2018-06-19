@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --passWithNoTests",
     "cm": "git-cz",
-    "prettier": "prettier --write \"./**/*.js\""
+    "prettier": "prettier --write \"./**/*.js\"",
+    "lint-staged": "lint-staged"
   },
   "keywords": [],
   "author": "",
@@ -14,7 +15,7 @@
   "dependencies": {},
   "husky": {
     "hooks": {
-      "pre-commit": "npm test",
+      "pre-commit": "lint-staged",
       "commit-msg": "commitlint --env HUSKY_GIT_PARAMS"
     }
   },

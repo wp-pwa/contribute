@@ -1,0 +1,7 @@
+{
+  "*.js": [
+    "npm run prettier",
+    "npm test",
+    "git add"
+  ]
+}
