@@ -1,3 +1,10 @@
 const variable = 'I am a string';
 
-const array = ['I am an array element'];
+const array = [
+  'I am an array element',
+  'sadfa',
+  'I am an array element',
+  'sadfa',
+  'I am an array element',
+  'sadfa',
+];
