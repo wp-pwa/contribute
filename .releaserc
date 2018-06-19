@@ -1,3 +1,4 @@
 {
-  "branch": "master"
+  "branch": "master",
+  "publish": "@semantic-release/github"
 }
