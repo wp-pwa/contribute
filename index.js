@@ -18,3 +18,5 @@ export const string200 =
 
 export const string400 =
   'asdfdasdfdasfasfdafasfasfasfasfasfasfsafasfasfasdfdasfasfasfsdasdfasdasafsfsafsdsdf asdfdasdfdasfasfdafasfasfasfasfasfasfsafasfasfasdfdasfasfasfsdasdfasdasafsfsafsdsdf';
+
+export const newFeature = 'sooo important new feature';
