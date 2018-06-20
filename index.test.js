@@ -7,3 +7,7 @@ test('should pass', () => {
 test('new Feature text', () => {
   expect(newFeature).toBe('sooo important new feature');
 });
+
+test('extra new Feature text', () => {
+  expect(typeof newFeature).toBe('string');
+});
