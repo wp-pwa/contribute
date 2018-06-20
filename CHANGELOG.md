@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/frontity/ci/compare/v1.3.0...v1.4.0) (2018-06-20)
+
+
+### Features
+
+* **index:** add super string ([62df33e](https://github.com/frontity/ci/commit/62df33e)), closes [#8](https://github.com/frontity/ci/issues/8)
+
 # [1.3.0](https://github.com/frontity/ci/compare/v1.2.0...v1.3.0) (2018-06-20)
 
 
