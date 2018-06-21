@@ -5,7 +5,7 @@ test('should pass', () => {
 });
 
 test('new Feature text', () => {
-  expect(newFeature).toBe('sooo important new feature');
+  expect(newFeature).toBe('sooo important new feature with a patch');
 });
 
 test('extra new Feature text', () => {
