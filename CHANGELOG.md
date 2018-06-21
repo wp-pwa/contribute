@@ -1,3 +1,11 @@
+## [1.4.1](https://github.com/frontity/ci/compare/v1.4.0...v1.4.1) (2018-06-21)
+
+
+### Bug Fixes
+
+* **index:** creating a patch for a new release ([f418735](https://github.com/frontity/ci/commit/f418735))
+* **index:** fix for [#11](https://github.com/frontity/ci/issues/11) ([6ffb787](https://github.com/frontity/ci/commit/6ffb787))
+
 # [1.4.0](https://github.com/frontity/ci/compare/v1.3.0...v1.4.0) (2018-06-20)
 
 
