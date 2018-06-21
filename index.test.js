@@ -1,4 +1,4 @@
-import { newFeature, superString } from './index';
+import { newFeature } from './index';
 
 test('should pass', () => {
   expect(3).toBe(3);
@@ -10,8 +10,4 @@ test('new Feature text', () => {
 
 test('extra new Feature text', () => {
   expect(typeof newFeature).toBe('string');
-});
-
-test('super string', () => {
-  expect(superString).toBe('this is a superb string');
 });
