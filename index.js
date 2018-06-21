@@ -20,5 +20,3 @@ export const string400 =
   'asdfdasdfdasfasfdafasfasfasfasfasfasfsafasfasfasdfdasfasfasfsdasdfasdasafsfsafsdsdf asdfdasdfdasfasfdafasfasfasfasfasfasfsafasfasfasdfdasfasfasfsdasdfasdasafsfsafsdsdf';
 
 export const newFeature = 'sooo important new feature';
-
-export const superString = 'this is a superb string';
