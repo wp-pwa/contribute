@@ -61,7 +61,7 @@ If you are starting a new project for the Frontity org, please use this reposito
 
 You should also include a `CONTRIBUTING.md` file pointing to this `README.md`.
 
-## License
+## License
 
 All Node/JS Frontity projects are licensed under the MIT license, and all contributions will be released under the MIT license. You maintain copyright over any contribution you make, and by submitting a pull request, you are agreeing to release that contribution under the MIT license.
 
