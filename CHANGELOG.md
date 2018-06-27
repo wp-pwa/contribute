@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/frontity/ci/compare/v1.4.1...v1.4.2) (2018-06-27)
+
+
+### Bug Fixes
+
+* **index:** clean index file ([a73dc7d](https://github.com/frontity/ci/commit/a73dc7d))
+
 ## [1.4.1](https://github.com/frontity/ci/compare/v1.4.0...v1.4.1) (2018-06-21)
 
 
