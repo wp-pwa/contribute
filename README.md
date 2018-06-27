@@ -4,6 +4,8 @@ Thank you for thinking about contributing to a Frontity project!
 
 These are the different steps needed to contribute to a Frontity project.
 
+[![Build Status](https://travis-ci.org/frontity/contribute.svg?branch=master)](https://travis-ci.org/frontity/contribute)
+
 ## Contribution worflow
 
 #### 1. Open an issue
