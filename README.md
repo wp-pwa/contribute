@@ -65,6 +65,6 @@ You should also include a `CONTRIBUTING.md` file pointing to this `README.md`.
 
 ## License
 
-All Node/JS Frontity projects are licensed under the MIT license, and all contributions will be released under the MIT license. You maintain copyright over any contribution you make, and by submitting a pull request, you are agreeing to release that contribution under the MIT license.
+All Node/JS Frontity projects are licensed under the Apache 2.0 license, and all contributions will be released under the Apache 2.0 license. You maintain copyright over any contribution you make, and by submitting a pull request, you are agreeing to release that contribution under the Apache 2.0 license.
 
 All Wordpress/PHP Frontity projects are licensed under the GPLv3 license, and all contributions will be released under the GPLv3 license. You maintain copyright over any contribution you make, and by submitting a pull request, you are agreeing to release that contribution under the GPLv3 license.
