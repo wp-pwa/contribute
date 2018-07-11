@@ -1,3 +1,10 @@
+## [1.4.8](https://github.com/frontity/contribute/compare/v1.4.7...v1.4.8) (2018-07-11)
+
+
+### Bug Fixes
+
+* **semantic-release:** go back to default github comment ([5695e1a](https://github.com/frontity/contribute/commit/5695e1a)), closes [#21](https://github.com/frontity/contribute/issues/21)
+
 ## [1.4.7](https://github.com/frontity/contribute/compare/v1.4.6...v1.4.7) (2018-07-11)
 
 
