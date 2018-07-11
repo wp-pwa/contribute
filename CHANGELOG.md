@@ -1,3 +1,10 @@
+## [1.4.6](https://github.com/frontity/contribute/compare/v1.4.5...v1.4.6) (2018-07-11)
+
+
+### Bug Fixes
+
+* **index:** trigger a new release ([23f2e63](https://github.com/frontity/contribute/commit/23f2e63)), closes [#21](https://github.com/frontity/contribute/issues/21)
+
 ## [1.4.5](https://github.com/frontity/contribute/compare/v1.4.4...v1.4.5) (2018-07-11)
 
 
