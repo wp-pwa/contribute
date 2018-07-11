@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/frontity/ci/compare/v1.4.2...v1.4.3) (2018-07-11)
+
+
+### Bug Fixes
+
+* **semantic-release:** change github success comment ([e320ec4](https://github.com/frontity/ci/commit/e320ec4)), closes [#19](https://github.com/frontity/ci/issues/19)
+
 ## [1.4.2](https://github.com/frontity/ci/compare/v1.4.1...v1.4.2) (2018-06-27)
 
 
