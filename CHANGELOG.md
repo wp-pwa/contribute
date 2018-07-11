@@ -1,3 +1,10 @@
+## [1.4.4](https://github.com/frontity/ci/compare/v1.4.3...v1.4.4) (2018-07-11)
+
+
+### Bug Fixes
+
+* **index:** trigger a new release ([2506d1d](https://github.com/frontity/ci/commit/2506d1d)), closes [#21](https://github.com/frontity/ci/issues/21)
+
 ## [1.4.3](https://github.com/frontity/ci/compare/v1.4.2...v1.4.3) (2018-07-11)
 
 
