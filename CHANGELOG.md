@@ -1,3 +1,10 @@
+## [1.4.5](https://github.com/frontity/contribute/compare/v1.4.4...v1.4.5) (2018-07-11)
+
+
+### Bug Fixes
+
+* **semantic-release:** enter proper repository in package.json ([7f353af](https://github.com/frontity/contribute/commit/7f353af))
+
 ## [1.4.4](https://github.com/frontity/ci/compare/v1.4.3...v1.4.4) (2018-07-11)
 
 
