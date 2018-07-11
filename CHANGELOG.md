@@ -1,3 +1,10 @@
+## [1.4.7](https://github.com/frontity/contribute/compare/v1.4.6...v1.4.7) (2018-07-11)
+
+
+### Bug Fixes
+
+* **semantic-release:** update successComment ([dd04fdd](https://github.com/frontity/contribute/commit/dd04fdd)), closes [#21](https://github.com/frontity/contribute/issues/21)
+
 ## [1.4.6](https://github.com/frontity/contribute/compare/v1.4.5...v1.4.6) (2018-07-11)
 
 
