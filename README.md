@@ -37,7 +37,7 @@ Remember to add tests for all the files you create/modify. We use the [jest](htt
 
 ##### Commit convention
 
-We follow the [Angular Convential Changelog](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines) for commits. Please, review it before commiting.
+We follow the [Angular Conventional Changelog](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines) for commits. Please, review it before commiting.
 
 To make your life easier, you can use `npm run cz` instead of `git commit`. That will launch [commitizen](http://commitizen.github.io/cz-cli/) with the configuration we use, so you just have to answer to its questions.
 
