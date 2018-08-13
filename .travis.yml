@@ -3,7 +3,8 @@ cache:
   directories:
     - ~/.npm
     - ~/.cache
-    - node_modules
+install:
+  - npm ci
 node_js:
   - lts/*
 after_success:
