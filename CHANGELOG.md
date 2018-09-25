@@ -1,3 +1,10 @@
+## [1.4.13](https://github.com/frontity/contribute/compare/v1.4.12...v1.4.13) (2018-09-25)
+
+
+### Bug Fixes
+
+* **semantic-release:** replace script by commands ([65080a5](https://github.com/frontity/contribute/commit/65080a5))
+
 ## [1.4.12](https://github.com/frontity/contribute/compare/v1.4.11...v1.4.12) (2018-09-25)
 
 
