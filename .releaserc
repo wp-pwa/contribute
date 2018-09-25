@@ -10,7 +10,13 @@
     "@semantic-release/git"
   ],
   "publish": ["@semantic-release/github"],
-  "success": ["@semantic-release/github"],
+  "success": [
+    "@semantic-release/github",
+    {
+      "path": "@semantic-release/exec",
+      "cmd": "git checkout dev && git rebase --onto master && git push origin dev"
+    }
+  ],
   "fail": ["@semantic-release/github"],
   "branch": "master",
   "npmPublish": false
