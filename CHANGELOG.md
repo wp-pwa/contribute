@@ -1,3 +1,10 @@
+## [1.4.9](https://github.com/frontity/contribute/compare/v1.4.8...v1.4.9) (2018-09-25)
+
+
+### Bug Fixes
+
+* **semantic-release:** rebase dev onto master after success ([a8c39cb](https://github.com/frontity/contribute/commit/a8c39cb))
+
 ## [1.4.8](https://github.com/frontity/contribute/compare/v1.4.7...v1.4.8) (2018-07-11)
 
 
