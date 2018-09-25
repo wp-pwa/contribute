@@ -1,3 +1,10 @@
+## [1.4.12](https://github.com/frontity/contribute/compare/v1.4.11...v1.4.12) (2018-09-25)
+
+
+### Bug Fixes
+
+* **semantic-release:** set shell to 'sh' ([0d124d6](https://github.com/frontity/contribute/commit/0d124d6))
+
 ## [1.4.11](https://github.com/frontity/contribute/compare/v1.4.10...v1.4.11) (2018-09-25)
 
 
