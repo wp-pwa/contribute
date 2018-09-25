@@ -14,7 +14,8 @@
     "@semantic-release/github",
     {
       "path": "@semantic-release/exec",
-      "cmd": "./rebase-dev.sh"
+      "cmd": "./rebase-dev.sh",
+      "shell": true
     }
   ],
   "fail": ["@semantic-release/github"],
