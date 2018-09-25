@@ -1,3 +1,10 @@
+## [1.4.10](https://github.com/frontity/contribute/compare/v1.4.9...v1.4.10) (2018-09-25)
+
+
+### Bug Fixes
+
+* **release:** move git-rebase command to a script ([5c68ade](https://github.com/frontity/contribute/commit/5c68ade))
+
 ## [1.4.9](https://github.com/frontity/contribute/compare/v1.4.8...v1.4.9) (2018-09-25)
 
 
