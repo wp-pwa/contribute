@@ -14,7 +14,7 @@
     "@semantic-release/github",
     {
       "path": "@semantic-release/exec",
-      "cmd": "git checkout dev && git rebase --onto master && git push origin dev"
+      "cmd": "./rebase-dev.sh"
     }
   ],
   "fail": ["@semantic-release/github"],
