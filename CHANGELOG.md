@@ -1,3 +1,10 @@
+## [1.4.11](https://github.com/frontity/contribute/compare/v1.4.10...v1.4.11) (2018-09-25)
+
+
+### Bug Fixes
+
+* **semantic-release:** set shell to 'true' ([b0b81b2](https://github.com/frontity/contribute/commit/b0b81b2))
+
 ## [1.4.10](https://github.com/frontity/contribute/compare/v1.4.9...v1.4.10) (2018-09-25)
 
 
