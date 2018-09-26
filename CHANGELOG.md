@@ -1,3 +1,10 @@
+## [1.4.15](https://github.com/frontity/contribute/compare/v1.4.14...v1.4.15) (2018-09-26)
+
+
+### Bug Fixes
+
+* **semantic-release:** change commit message and add noCi ([54e8706](https://github.com/frontity/contribute/commit/54e8706))
+
 ## [1.4.14](https://github.com/frontity/contribute/compare/v1.4.13...v1.4.14) (2018-09-26)
 
 
