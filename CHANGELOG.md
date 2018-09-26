@@ -1,3 +1,11 @@
+## [1.4.14](https://github.com/frontity/contribute/compare/v1.4.13...v1.4.14) (2018-09-26)
+
+
+### Bug Fixes
+
+* **semantic-release:** remove github ([1ff9241](https://github.com/frontity/contribute/commit/1ff9241))
+* **semantic-release:** use local env variables ([11d059c](https://github.com/frontity/contribute/commit/11d059c))
+
 ## [1.4.13](https://github.com/frontity/contribute/compare/v1.4.12...v1.4.13) (2018-09-25)
 
 
