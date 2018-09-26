@@ -1,7 +1,6 @@
 {
   "verifyConditions": [
     "@semantic-release/changelog",
-    "@semantic-release/github",
     "@semantic-release/git"
   ],
   "prepare": [
@@ -9,9 +8,8 @@
     "@semantic-release/npm",
     "@semantic-release/git"
   ],
-  "publish": ["@semantic-release/github"],
+  "publish": [],
   "success": [
-    "@semantic-release/github",
     {
       "path": "@semantic-release/exec",
       "cmd": "git checkout dev"
@@ -25,7 +23,7 @@
       "cmd": "git push origin dev"
     }
   ],
-  "fail": ["@semantic-release/github"],
+  "fail": [],
   "branch": "master",
   "npmPublish": false
 }
